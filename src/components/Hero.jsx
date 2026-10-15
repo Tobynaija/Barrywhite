@@ -3,7 +3,7 @@ function Hero() {
   return (
     <section className="hero" id="home">
       <div className="hero-content">
-        <p className="eyebrow">WELCOME TO BARRyWHITE TRAVEL AGENCY</p>
+        <p className="eyebrow">WELCOME TO BARRYWHITE TRAVEL AGENCY</p>
 
         <h1>
           Explore the world.

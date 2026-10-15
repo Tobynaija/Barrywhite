@@ -133,7 +133,7 @@ function Contact() {
           <div className="office-card">
             <h3>Branch Office</h3>
             <p>
-              Omolere Street, Yaba, Ondo, Nigeria.
+              Omolere Street, Yaba Road, Ondo Town, Nigeria.
             </p>
             <a
               href="https://www.google.com/maps/search/?api=1&query=Omolere+Street+Yaba+Ondo+Nigeria"
